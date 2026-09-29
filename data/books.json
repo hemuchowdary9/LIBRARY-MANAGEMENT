@@ -1,0 +1,14 @@
+[
+    {
+        "id": "M001",
+        "title": "PYTHON BASICS",
+        "author": "IDK",
+        "status": "Available"
+    },
+    {
+        "id": "B001",
+        "title": "JAVA",
+        "author": "VAIBHAV",
+        "status": "Available"
+    }
+]
