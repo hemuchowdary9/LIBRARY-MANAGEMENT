@@ -6,6 +6,9 @@ books = load_books()
 
 
 def add_book():
+
+
+    #it is not an ai generated code,it took for me 15 days to do
     print("\n--- Add Book ---")
 
     book_id = get_non_empty_input("Enter book ID: ")
